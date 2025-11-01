@@ -1,9 +1,11 @@
 # Fortune's Gate
 
-**Description:**
+## [Click here to play Fortune’s Gate!](https://farhadgul06.github.io/fortunes_gate_game/)
+
+**Description:**  
 Fortune’s Gate is a 2D strategy RPG where you choose doors to face enemies, upgrade your champion’s stats, and try to survive as long as possible. Plan carefully, manage resources, and grow stronger with each level.
 
-**Objective:**
+**Objective:**  
 The goal is to progress as far as possible by defeating enemies and making smart upgrades.
 
 ## How to Play
